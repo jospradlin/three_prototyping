@@ -1,6 +1,6 @@
-## Rust/WebAssembly-based Snake Game
+## Rust/WebAssembly-based React-Three-Fiber/Three.JS Prototype
 
-The following code is a Rust/WebAssembly-based Snake Game used as a learning tool for the new technology.  This code can be build, containerized, and further "distroless" containerized and deployed to Docker, GCP CloudRun, AWS Lambda, etc.
+The following code is a Rust/WebAssembly-based React-Three-Fiber/Three.JS Prototype used as a learning tool for the new technology.  This code can be build, containerized, and further "distroless" containerized and deployed to Docker, GCP CloudRun, AWS Lambda, etc.
 
 ## Pre-Requirements
 
